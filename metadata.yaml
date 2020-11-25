@@ -1,0 +1,27 @@
+_repo: The-Moon-and-the-Sun_63758
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McKimmey, James
+    alias: McKimmey, James Earl, Jr.
+    birthdate: 1923
+    deathdate: 2011
+    gutenberg_agent_id: '34006'
+    url: http://www.gutenberg.org/2009/agents/34006
+description: ''
+gutenberg_issued: '2020-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: The Moon and the Sun
+url: http://www.gutenberg.org/ebooks/63758
